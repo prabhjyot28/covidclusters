@@ -1,4 +1,4 @@
-# Covid clusters Frontend
+# Covid clusters
 
 1. Clone this repo
 2. Run `npm install`
